@@ -11,13 +11,13 @@ class App extends Component {
           <h1>Contacts</h1>
 
           <Contact nameavatar='https://randomuser.me/api/portraits/women/67.jpg' 
-            name="Ann Byrne" status="online"/>
+            name="Ann Byrne" status="online" />
 
           <Contact nameavatar='https://randomuser.me/api/portraits/men/67.jpg' 
-          name= "Paul Smith" status="offline"/>
+          name= "Paul Smith" status="offline" />
 
           <Contact nameavatar='https://randomuser.me/api/portraits/men/11.jpg'
-           name= "Tom Brown" status="online"/>
+           name= "Tom Brown" status="online" />
         </header>
       </div>
     );
